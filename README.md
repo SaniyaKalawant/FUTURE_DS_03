@@ -266,7 +266,8 @@ marketing-funnel-powerbi/
 ├── Screenshots/
 │   ├── dashboard_overview.png
 │   └── insights_action_plan.png
-
+├── Documentation/
+    ├── Marketing_Funnel_Documentation
 ```
 
 ---
