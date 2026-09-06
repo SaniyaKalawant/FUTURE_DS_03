@@ -37,9 +37,13 @@ By comparing conversion rates, customer segments, contact methods, campaigns, an
 
 Provides an interactive overview of funnel performance, KPIs, conversion rates, customer trends, and segment-level analysis.
 
+![Marketing Funnel & Conversion Performance](Screenshots/dashboard_overview.png)
+
 ### 2. Insights & Action Plan
 
 Summarizes the major business findings and translates them into actionable marketing recommendations.
+
+![Insights & Action Plan](Screenshots/insights_action_plan.png) 
 
 ---
 
@@ -259,12 +263,10 @@ marketing-funnel-powerbi/
 │
 ├── README.md
 │
-├── images/
-│   ├── dashboard-overview.png
-│   └── insights-action-plan.png
-│
-└── data/
-    └── README.md
+├── Screenshots/
+│   ├── dashboard_overview.png
+│   └── insights_action_plan.png
+
 ```
 
 ---
